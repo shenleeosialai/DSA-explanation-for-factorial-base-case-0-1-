@@ -1,3 +1,7 @@
+![Status](https://img.shields.io/badge/status-active-success)
+![Language](https://img.shields.io/badge/language-Python-blue)
+![Docs](https://img.shields.io/badge/docs-markdown-informational)
+
 # Why (0! = 1) — A Data Structures & Algorithms (DSA) Perspective by shen lee osialai
 ## Recursion (DSA)
 
